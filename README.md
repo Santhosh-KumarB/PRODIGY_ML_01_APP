@@ -53,15 +53,16 @@ House-Price-Prediction-Web-App
 
 pip install flask scikit-learn numpy
 
-3. Run the Flask app:
+2. Run the Flask app:
 
 python app.py
+
+3. Open your browser and visit:
+   
+http://127.0.0.1:5000/
 
 ---
 
 ## 🙌 Author
 
 **Santhosh Kumar B**  
-3. Open your browser and visit:
-   
-http://127.0.0.1:5000/
